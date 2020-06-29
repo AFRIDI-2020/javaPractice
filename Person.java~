@@ -1,0 +1,13 @@
+import java.util.*;
+
+
+public class Person{
+
+  int age;
+  
+  Person(int initialAge){
+    age = initialAge;
+  }
+  
+  
+}
